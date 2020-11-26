@@ -1,0 +1,48 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>$cat Notes.txt</title>
+    <link>https://migel0.github.io/</link>
+    <description>Recent content on $cat Notes.txt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 26 Nov 2020 16:10:27 +0100</lastBuildDate>
+    
+        <atom:link href="https://migel0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://migel0.github.io/post/</link>
+      <pubDate>Thu, 26 Nov 2020 16:10:27 +0100</pubDate>
+      
+      <guid>https://migel0.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://migel0.github.io/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://migel0.github.io/about/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;Written in Go, Hugo is an open source static site generator available under the &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;Apache Licence 2.0.&lt;span style=&#34;color:#f92672&#34;&gt;](&lt;/span&gt;https://github.com/gohugoio/hugo/blob/master/LICENSE&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; Sass SCSS workflows.
+
+Hugo makes use of a variety of open source projects including:
+
+* https://github.com/yuin/goldmark
+* https://github.com/alecthomas/chroma
+* https://github.com/muesli/smartcrop
+* https://github.com/spf13/cobra
+* https://github.com/spf13/viper
+
+Hugo is ideal &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+
+Hugo is &lt;span style=&#34;color:#66d9ef&#34;&gt;for&lt;/span&gt; people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+
+Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+
+Learn more and contribute on &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;GitHub&lt;span style=&#34;color:#f92672&#34;&gt;](&lt;/span&gt;https://github.com/gohugoio&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;. 
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
