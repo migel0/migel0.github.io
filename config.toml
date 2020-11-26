@@ -1,0 +1,27 @@
+baseURL = "https://migel0.github.io"
+title = "$cat Notes.txt"
+theme = "papaya"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = "info"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Posts"
+    pre = "pen-tool"
+    url = "/post/"
+    weight = 2
+
+[taxonomies]
+  tag = "tags"
+
+[params]
+  authorName = "Miguel"
+  gravatarEmail = "miguel dot pajarin at google mail"
+  description = "Fish memory, huntered by cat"
